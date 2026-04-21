@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/spot-nyc/spot/releases/download/v0.1.0/spot_0.1.0_windows_amd64.zip",
+            "bin": [
+                "spot.exe"
+            ],
+            "hash": "10f572686005cb52bdaadf5f3ae65948d59f837a67ba81bff3a069b13e824ccb"
+        }
+    },
+    "homepage": "https://github.com/spot-nyc/spot",
+    "license": "MIT",
+    "description": "Spot — CLI for restaurant reservation searches and bookings."
+}
