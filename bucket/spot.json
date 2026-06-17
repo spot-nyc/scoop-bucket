@@ -1,12 +1,12 @@
 {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/spot-nyc/spot/releases/download/v0.4.0/spot_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/spot-nyc/spot/releases/download/v0.5.0/spot_0.5.0_windows_amd64.zip",
             "bin": [
                 "spot.exe"
             ],
-            "hash": "307d7000b8a1ee2fab0e8d8baf615d4dd9b2c435d226fb57ca4295a209026c61"
+            "hash": "48da70498220b4f713a750888edc316344601d72617864c4d2b57e1614c3a031"
         }
     },
     "homepage": "https://github.com/spot-nyc/spot",
